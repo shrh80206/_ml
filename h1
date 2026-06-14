@@ -107,3 +107,4 @@ if __name__ == "__main__":
     
     # 執行爬山演算法 (最大代數 1000，連續失敗 100 次就停止)
     final_solution = hillClimbing(initial_solution, maxGens=1000, maxFails=100)
+gemini對話紀錄:https://gemini.google.com/share/89687429cb36
